@@ -96,3 +96,5 @@ Además:
 * `git log --oneline --graph --all`. Dibujará las ramificaciones en la terminal como si fuera un mapa del metro.
 * Si haces un commit y quieres modificar el mensaje: `git commit --amend -m "Mensaje corregido"`
 * Se pueden crear alias para comandos muy largos, por ejemplo: `git config --global alias.tree "log --oneline --graph --all --decorate"`, para usar `git tree`
+
+Añadir algo random

@@ -1,0 +1,8 @@
+# Normalizar todos los archivos de texto a LF en el repo
+* text=auto
+
+# Forzar archivos específicos a usar siempre CRLF (útil para scripts .bat)
+*.bat text eol=crlf
+
+# Forzar archivos a usar siempre LF
+*.sh text eol=lf
